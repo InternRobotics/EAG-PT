@@ -1,0 +1,17 @@
+# [input]
+
+_data/**
+!_data/README.md
+
+# [output]
+
+_output*/
+wandb/
+
+# [constantly changing files / folders]
+
+.vscode/
+__pycache__/
+_temp/
+_playground/
+_playground.py
